@@ -1,12 +1,5 @@
 {
     "name": "yutakakinjyo/test-package",
     "type": "library",
-    "authors": [
-        {
-            "name": "yutakakinjyo",
-            "email": "yutakakinjyo@gmail.com"
-        }
-    ],
-    "minimum-stability":"dev",
     "require": {}
 }

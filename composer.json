@@ -1,10 +1,8 @@
 {
     "name": "yutakakinjyo/test-package",
-    "type": "library",
     "description": "Composerサンプルプロジェクト",
     "license": "MIT",
-    "require": {},
-    "autoload": {
+      "autoload": {
         "psr-0": {
             "Vali\\": "src/"
         }

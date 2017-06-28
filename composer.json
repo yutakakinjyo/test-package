@@ -4,7 +4,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "YutakaKinjyo\\Test-Package\\": "src/"
+            "YutakaKinjyo\\TestPackage\\": "src/"
         }
     }
 }

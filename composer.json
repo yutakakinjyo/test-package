@@ -3,8 +3,8 @@
     "type": "library",
     "require": {},
     "autoload": {
-	"prs-4": {
-	    "YutakaKinjyo\Test-Package": "src/"
-	}
+        "psr-4": {
+            "YutakaKinjyo\\Test-Package\\": "src/"
+        }
     }
 }

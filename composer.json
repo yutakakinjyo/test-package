@@ -1,0 +1,11 @@
+{
+    "name": "test/test-package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yutakakinjyo",
+            "email": "yutakakinjyo@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Requests;
+namespace YutakaKinjo\TestPackage;
 
 use Illuminate\Foundation\Http\FormRequest;
 

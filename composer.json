@@ -1,7 +1,7 @@
 {
     "name": "yutakakinjyo/test-package",
     "type": "library",
-    "require": {}
+    "require": {},
     "autoload": {
 	"prs-4": {
 	    "YutakaKinjyo\Test-Package": "src/"

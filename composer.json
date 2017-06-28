@@ -7,5 +7,6 @@
             "email": "yutakakinjyo@gmail.com"
         }
     ],
+    "minimum-stability":"dev",
     "require": {}
 }

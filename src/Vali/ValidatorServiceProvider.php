@@ -1,3 +1,5 @@
+<?php
+
 namespace Vali;
 
 use Illuminate\Support\ServiceProvider;

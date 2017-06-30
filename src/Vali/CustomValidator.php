@@ -1,3 +1,7 @@
+<?php
+
+namespace Vali;
+
 class CustomValidator extends \Illuminate\Validation\Validator
 {
 

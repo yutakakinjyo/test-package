@@ -4,4 +4,4 @@
 
 # Run test
 
-`vendor/bin/phpunit --colors --bootstrap tests/bootstrap.php tests/*`
+`vendor/bin/phpunit --colors tests/*`

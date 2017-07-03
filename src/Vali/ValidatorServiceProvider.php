@@ -19,7 +19,7 @@ class ValidatorServiceProvider extends ServiceProvider
         $this->loadTranslationsFrom(__DIR__.'/resources/lang/', 'test-package');
 
         $this->publishes([
-            __DIR__.'/../resources/lang/' => resource_path('/lang/vendor/test-package'),
+            __DIR__.'/../../resources/lang/' => resource_path('/lang/vendor/test-package'),
         ]);
         
     }

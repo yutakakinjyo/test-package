@@ -10,5 +10,8 @@
     "require-dev": {
         "orchestra/testbench": "~3.0",
         "phpunit/phpunit": "~6.0"
+    },
+    "require": {
+        "respect/validation": "^1.1"
     }
 }

@@ -3,6 +3,7 @@
 namespace Tests;
 
 use Orchestra\Testbench\TestCase;
+use Vali\ValidatorMessage;
 
 class HogeTestCase extends TestCase
 {
@@ -35,6 +36,10 @@ class HogeTestCase extends TestCase
         $data = ['creditcard' => 340316193809364];
         $validation = $this->app->make('validator')->make($data, $rules);
         $this->assertTrue($validation->passes());
+    }
+
+    public function testCustomMessage() {
+        $this->assertCount(2, ValidatorMessage::customValidateMessages());
     }
     
 }
